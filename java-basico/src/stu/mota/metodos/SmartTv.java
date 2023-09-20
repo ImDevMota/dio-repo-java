@@ -1,3 +1,4 @@
+package stu.mota.metodos;
 public class SmartTv {
     boolean ligada = false;
     int canal = 1; 
